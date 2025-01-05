@@ -1,0 +1,11 @@
+dash
+confluent_kafka
+black==24.10.0
+confluent-kafka==2.6.2
+dash==2.13.0
+Flask==2.2.5
+numpy==1.26.0
+pandas==2.1.1
+pyspark
+requests
+setuptools
