@@ -1,4 +1,4 @@
-## Set up the project
+## Setting up the project
 
 ### Create Account on confluent kafka cloud 
 1.  Go to https://confluent.cloud/
